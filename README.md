@@ -1,6 +1,8 @@
 # Crypto XNC
 ## Cardano House | RNC & DNC 2024 Policy & Education Centers
 
+**Proposal Link:** https://awen.online/crypto_xnc
+
 Welcome to the official GitHub repository of the Crypto XNC project, a pioneering initiative by Awen aimed at bridging the gap between the blockchain community and political engagement. The Crypto XNC project, with its dual facets—Crypto DNC and Crypto RNC—seeks to establish Policy & Education Centers for the Democratic National Committee (DNC) and Republican National Committee (RNC) respectively, with a focus on the 2024 electoral cycle.
 
 ### Project Overview
