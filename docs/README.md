@@ -10,13 +10,13 @@ Here you can find links to all neccessary documentation for each of the mileston
 ### Milestone 1 - Initialization
 >**Documents**
 >
->[Setup Report](docs/M1_Initialization/CryptoRNCDNC_Setup_Report.pdf) - information about locations, times, and venues
+>[Setup Report](M1_Initialization/CryptoRNCDNC_Setup_Report.pdf) - information about locations, times, and venues
 >
->[Status Report](docs/M1_Initialization/CryptoRNCDNC_Status_Report.pdf) - status of all tasks and responsibilities
+>[Status Report](M1_Initialization/CryptoRNCDNC_Status_Report.pdf) - status of all tasks and responsibilities
 >
->[Project Timeline](docs/M1_Initialization/CryptoRNCDNC_Project_Timeline.pdf) - project roadmap, timeline, and responsibilities
+>[Project Timeline](M1_Initialization/CryptoRNCDNC_Project_Timeline.pdf) - project roadmap, timeline, and responsibilities
 >
->[Key Contributors](docs/M1_Initialization/CryptoRNCDNC_Key_Contributors.pdf) - list of targeted and secured partners and sponsors
+>[Key Contributors](M1_Initialization/CryptoRNCDNC_Key_Contributors.pdf) - list of targeted and secured partners and sponsors
 
 ### Milestone 2 - Design
 ### Milestone 3 - Preproduction
