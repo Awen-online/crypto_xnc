@@ -27,7 +27,7 @@ Here you can find links to all neccessary documentation for each of the mileston
 >
 >[Speaker Correspondence](M2_Design/CryptoXNC_Speaker_Correspondence.pdf) - correspondence with potential speakers and for both RNC and DNC.
 >
->[DNC Venue Tracksheet](M2_Design/CryptoXNC_Venue_Tracksheet_-_-DNC_Venues.pdf) [RNC Venue Tracksheet](M2_Design/CryptoXNC_Venue_Tracksheet_-_-RNC_Venues.pdf) - list of targeted venues with pertinent information
+>[DNC Venue Tracksheet](M2_Design/CryptoXNC_Venue_Tracksheet_-_DNC_Venues.pdf) [RNC Venue Tracksheet](M2_Design/CryptoXNC_Venue_Tracksheet_-_RNC_Venues.pdf) - list of targeted venues with pertinent information
 >
 >[Venue Correspondence](M2_Design/CryptoXNC_Venue_Correspondence.pdf) - correspondence with venues for availability
 
