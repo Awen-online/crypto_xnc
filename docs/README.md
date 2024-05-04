@@ -25,11 +25,11 @@ Here you can find links to all neccessary documentation for each of the mileston
 >
 >[Speaker Tracksheet](M2_Design/CryptoXNC_Speaker_Tracksheet.pdf) - list and status of all potential speakers
 >
->[Speaker Correspondence](M2_Design/CryptoXNC_Speaker_Correspondence.pdf) - correspondance with potential speakers and for both RNC and DNC.
+>[Speaker Correspondence](M2_Design/CryptoXNC_Speaker_Correspondence.pdf) - correspondence with potential speakers and for both RNC and DNC.
 >
 >[Venue Tracksheet](M2_Design/CryptoXNC_Venue_Tracksheet.pdf) - list of targeted venues with pertinent information
 >
->[Venue Correspondence](M2_Design/CryptoXNC_Venue_Correspondence.pdf) - correspondance with venues for availability
+>[Venue Correspondence](M2_Design/CryptoXNC_Venue_Correspondence.pdf) - correspondence with venues for availability
 
 ### Milestone 3 - Preproduction
 ### Milestone 4 - Production
