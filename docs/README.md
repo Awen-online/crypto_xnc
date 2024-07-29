@@ -32,5 +32,17 @@ Here you can find links to all neccessary documentation for each of the mileston
 >[Venue Correspondence](M2_Design/CryptoXNC_Venue_Correspondence.pdf) - correspondence with venues for availability
 
 ### Milestone 3 - Preproduction
+>
+>[Status Report](M3_Preproduction/CryptoXNC_Project_Status_M3.pdf) - status of all tasks and responsibilities
+>
+>[Project Timeline](M3_Preproduction/CryptoXNC_Project_Timeline_M3.pdf) - project roadmap, timeline, and responsibilities
+>
+>[Venue Proof](M3_Preproduction/Venue_Agreements_m3.pdf) - proof of venues for both DNC and RNC secured
+>
+>[Speaker Proof](M3_Preproduction/Speaker_Agreements_m3.pdf) - agreements with speakers for both our DNC and RNC events
+>
+>[Logistics & Community Engagement Report](M3_Preproduction/CryptoXNC_Logistics_and_Community_Engagement_Report.pdf) - report on community engagement plan and logistical preparations
+>
+
 ### Milestone 4 - Production
 ### Milestone 5 - Postproduction & Analysis
