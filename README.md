@@ -21,7 +21,6 @@ To advance the understanding and beneficial applications of decentralized techno
 This repository serves as the central hub for all project-related documentation, code, and resources. 
 >[/docs](docs/README.md) - Project proposals, whitepapers, educational materials, and more.
 >
->[/events](events/README.md) - Information on the different events themselves. Speakers, venues, etc
 
 ### Get Involved
 We welcome contributions from individuals who share our vision of a more transparent, accountable, and engaged political landscape. Whether you're a developer, educator, activist, or simply someone passionate about the intersection of technology and politics, there's a place for you here!
