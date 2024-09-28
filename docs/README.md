@@ -50,6 +50,6 @@ Here you can find links to all neccessary documentation for each of the mileston
 >
 >[Project Timeline](M4_Production/CryptoXNC_Project_Timeline_M4.pdf) - project roadmap, timeline, and responsibilities
 >
->[Production and Inclusivity Report](M4_Production/CryptoXNC_Production_and_Inclusivity_Report.pdf) - comprehensive document including: inclusivity report, video capture from the event, event survey results, and a media and social proof report.
+>[Production and Inclusivity Report](M4_Production/CryptoXNC_Production_and_Inclusivity_Report.pdf) - inclusivity report, video capture from the event, event survey results, and a media and social proof report
 >
 ### Milestone 5 - Postproduction & Analysis
