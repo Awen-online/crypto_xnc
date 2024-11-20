@@ -53,3 +53,12 @@ Here you can find links to all neccessary documentation for each of the mileston
 >[Production and Inclusivity Report](M4_Production/CryptoXNC_Production_and_Inclusivity_Report.pdf) - inclusivity report, video capture from the event, event survey results, and a media and social proof report
 >
 ### Milestone 5 - Postproduction & Analysis
+>
+>[Closeout Video](https://youtu.be/KNMbjO_EcFU) - closeout video (hosted on YouTube) documenting the project completion
+>
+>[Closeout Report](M5_Post_Production/CryptoXNC_Closeout_Report.pdf) - closeout report including impact assessment, insight report, and stakeholder feedback
+>
+>[Status Report](M5_Post_Production/CryptoXNC_Project_Status_M5Final.pdf) - status of all tasks and responsibilities
+>
+>[Project Timeline](M5_Post_Production/CryptoXNC_Project_Timeline_M5Final.pdf) - project roadmap, timeline, and responsibilities
+>
