@@ -56,7 +56,9 @@ Here you can find links to all neccessary documentation for each of the mileston
 >
 >[Closeout Video](https://youtu.be/KNMbjO_EcFU) - closeout video (hosted on YouTube) documenting the project completion
 >
->[Closeout Report](M5_Post_Production/CryptoXNC_Closeout_Report.pdf) - closeout report including impact assessment, insight report, and stakeholder feedback
+>[Closeout Report](M5_Post_Production/CryptoXNC_Closeout_Report.pdf) - KPIs and how they were (or were not) addressed and what the next stage plans are with the product or service that was developed. 
+>
+>[Project Summary Report](M5_Post_Production/CryptoXNC_Project_Summary_Report.pdf) - project summary report including impact assessment, insight report, and stakeholder feedback
 >
 >[Status Report](M5_Post_Production/CryptoXNC_Project_Status_M5Final.pdf) - status of all tasks and responsibilities
 >
